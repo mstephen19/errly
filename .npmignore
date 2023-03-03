@@ -1,0 +1,8 @@
+.vscode
+.DS_Store
+.gitignore
+tsconfig.json
+yarn.lock
+node_modules
+src
+.git

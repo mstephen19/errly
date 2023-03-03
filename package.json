@@ -1,0 +1,15 @@
+{
+    "name": "errly",
+    "version": "0.0.1",
+    "description": "Better error handling in TypeScript.",
+    "type": "module",
+    "exports": "./dist/index.js",
+    "main": "./dist/index.js",
+    "scripts": {
+        "build": "tsc"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^18.14.5"
+    }
+}
